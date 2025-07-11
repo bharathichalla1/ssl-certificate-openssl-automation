@@ -42,4 +42,4 @@ def check_expiry_for_domains(domains):
 domains_to_check = ["example.com", "google.com", "github.com"]  # Add more domains as needed
 
 # Run the SSL expiry check for the domains
-check_expiry_for_domains(domains_to_check)
+check_expiry_for_domains(domains_to_check) 
